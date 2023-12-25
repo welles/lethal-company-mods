@@ -13,3 +13,4 @@
 - [AdditionalSuits 1.1.3](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits/)
 - [ShipLoot 1.0.0](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
 - [AlwaysHearActiveWalkies 1.4.3](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)
+- [More Emotes 1.2.2](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
