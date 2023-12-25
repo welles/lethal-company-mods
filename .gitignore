@@ -1,0 +1,255 @@
+/Lethal Company_Data/app.info
+/Lethal Company_Data/boot.config
+/Lethal Company_Data/globalgamemanagers
+/Lethal Company_Data/globalgamemanagers.assets
+/Lethal Company_Data/globalgamemanagers.assets.resS
+/Lethal Company_Data/level0
+/Lethal Company_Data/level1
+/Lethal Company_Data/level10
+/Lethal Company_Data/level10.resS
+/Lethal Company_Data/level11
+/Lethal Company_Data/level11.resS
+/Lethal Company_Data/level12
+/Lethal Company_Data/level12.resS
+/Lethal Company_Data/level13
+/Lethal Company_Data/level13.resS
+/Lethal Company_Data/level2
+/Lethal Company_Data/level3
+/Lethal Company_Data/level4
+/Lethal Company_Data/level4.resS
+/Lethal Company_Data/level5
+/Lethal Company_Data/level5.resS
+/Lethal Company_Data/level6
+/Lethal Company_Data/level6.resS
+/Lethal Company_Data/level7
+/Lethal Company_Data/level7.resS
+/Lethal Company_Data/level8
+/Lethal Company_Data/level9
+/Lethal Company_Data/level9.resS
+/Lethal Company_Data/Managed/AmazingAssets.TerrainToMesh.dll
+/Lethal Company_Data/Managed/Assembly-CSharp-firstpass.dll
+/Lethal Company_Data/Managed/Assembly-CSharp.dll
+/Lethal Company_Data/Managed/ClientNetworkTransform.dll
+/Lethal Company_Data/Managed/DissonanceVoip.dll
+/Lethal Company_Data/Managed/Facepunch Transport for Netcode for GameObjects.dll
+/Lethal Company_Data/Managed/Facepunch.Steamworks.Win64.dll
+/Lethal Company_Data/Managed/Mono.Security.dll
+/Lethal Company_Data/Managed/mscorlib.dll
+/Lethal Company_Data/Managed/netstandard.dll
+/Lethal Company_Data/Managed/Newtonsoft.Json.dll
+/Lethal Company_Data/Managed/System.ComponentModel.Composition.dll
+/Lethal Company_Data/Managed/System.Configuration.dll
+/Lethal Company_Data/Managed/System.Core.dll
+/Lethal Company_Data/Managed/System.Data.DataSetExtensions.dll
+/Lethal Company_Data/Managed/System.Data.dll
+/Lethal Company_Data/Managed/System.dll
+/Lethal Company_Data/Managed/System.Drawing.dll
+/Lethal Company_Data/Managed/System.EnterpriseServices.dll
+/Lethal Company_Data/Managed/System.IO.Compression.dll
+/Lethal Company_Data/Managed/System.IO.Compression.FileSystem.dll
+/Lethal Company_Data/Managed/System.Net.Http.dll
+/Lethal Company_Data/Managed/System.Numerics.dll
+/Lethal Company_Data/Managed/System.Runtime.dll
+/Lethal Company_Data/Managed/System.Runtime.Serialization.dll
+/Lethal Company_Data/Managed/System.Security.dll
+/Lethal Company_Data/Managed/System.ServiceModel.Internals.dll
+/Lethal Company_Data/Managed/System.Transactions.dll
+/Lethal Company_Data/Managed/System.Xml.dll
+/Lethal Company_Data/Managed/System.Xml.Linq.dll
+/Lethal Company_Data/Managed/Unity.AI.Navigation.dll
+/Lethal Company_Data/Managed/Unity.Animation.Rigging.dll
+/Lethal Company_Data/Managed/Unity.Animation.Rigging.DocCodeExamples.dll
+/Lethal Company_Data/Managed/Unity.Burst.dll
+/Lethal Company_Data/Managed/Unity.Burst.Unsafe.dll
+/Lethal Company_Data/Managed/Unity.Collections.dll
+/Lethal Company_Data/Managed/Unity.Collections.LowLevel.ILSupport.dll
+/Lethal Company_Data/Managed/Unity.InputSystem.dll
+/Lethal Company_Data/Managed/Unity.InputSystem.ForUI.dll
+/Lethal Company_Data/Managed/Unity.Jobs.dll
+/Lethal Company_Data/Managed/Unity.Mathematics.dll
+/Lethal Company_Data/Managed/Unity.Multiplayer.Tools.Common.dll
+/Lethal Company_Data/Managed/Unity.Multiplayer.Tools.MetricTypes.dll
+/Lethal Company_Data/Managed/Unity.Multiplayer.Tools.NetStats.dll
+/Lethal Company_Data/Managed/Unity.Multiplayer.Tools.NetStatsMonitor.Component.dll
+/Lethal Company_Data/Managed/Unity.Multiplayer.Tools.NetStatsMonitor.Configuration.dll
+/Lethal Company_Data/Managed/Unity.Multiplayer.Tools.NetStatsMonitor.Implementation.dll
+/Lethal Company_Data/Managed/Unity.Multiplayer.Tools.NetStatsReporting.dll
+/Lethal Company_Data/Managed/Unity.Multiplayer.Tools.NetworkProfiler.Runtime.dll
+/Lethal Company_Data/Managed/Unity.Multiplayer.Tools.NetworkSolutionInterface.dll
+/Lethal Company_Data/Managed/Unity.Netcode.Components.dll
+/Lethal Company_Data/Managed/Unity.Netcode.Runtime.dll
+/Lethal Company_Data/Managed/Unity.Networking.Transport.dll
+/Lethal Company_Data/Managed/Unity.ProBuilder.Csg.dll
+/Lethal Company_Data/Managed/Unity.ProBuilder.dll
+/Lethal Company_Data/Managed/Unity.ProBuilder.KdTree.dll
+/Lethal Company_Data/Managed/Unity.ProBuilder.Poly2Tri.dll
+/Lethal Company_Data/Managed/Unity.ProBuilder.Stl.dll
+/Lethal Company_Data/Managed/Unity.Profiling.Core.dll
+/Lethal Company_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll
+/Lethal Company_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll
+/Lethal Company_Data/Managed/Unity.RenderPipelines.HighDefinition.Config.Runtime.dll
+/Lethal Company_Data/Managed/Unity.RenderPipelines.HighDefinition.Runtime.dll
+/Lethal Company_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll
+/Lethal Company_Data/Managed/Unity.Services.Authentication.dll
+/Lethal Company_Data/Managed/Unity.Services.Core.Analytics.dll
+/Lethal Company_Data/Managed/Unity.Services.Core.Configuration.dll
+/Lethal Company_Data/Managed/Unity.Services.Core.Device.dll
+/Lethal Company_Data/Managed/Unity.Services.Core.dll
+/Lethal Company_Data/Managed/Unity.Services.Core.Environments.dll
+/Lethal Company_Data/Managed/Unity.Services.Core.Environments.Internal.dll
+/Lethal Company_Data/Managed/Unity.Services.Core.Internal.dll
+/Lethal Company_Data/Managed/Unity.Services.Core.Networking.dll
+/Lethal Company_Data/Managed/Unity.Services.Core.Registration.dll
+/Lethal Company_Data/Managed/Unity.Services.Core.Scheduler.dll
+/Lethal Company_Data/Managed/Unity.Services.Core.Telemetry.dll
+/Lethal Company_Data/Managed/Unity.Services.Core.Threading.dll
+/Lethal Company_Data/Managed/Unity.Services.QoS.dll
+/Lethal Company_Data/Managed/Unity.Services.Relay.dll
+/Lethal Company_Data/Managed/Unity.TextMeshPro.dll
+/Lethal Company_Data/Managed/Unity.Timeline.dll
+/Lethal Company_Data/Managed/Unity.VisualEffectGraph.Runtime.dll
+/Lethal Company_Data/Managed/UnityEngine.AccessibilityModule.dll
+/Lethal Company_Data/Managed/UnityEngine.AIModule.dll
+/Lethal Company_Data/Managed/UnityEngine.AndroidJNIModule.dll
+/Lethal Company_Data/Managed/UnityEngine.AnimationModule.dll
+/Lethal Company_Data/Managed/UnityEngine.ARModule.dll
+/Lethal Company_Data/Managed/UnityEngine.AssetBundleModule.dll
+/Lethal Company_Data/Managed/UnityEngine.AudioModule.dll
+/Lethal Company_Data/Managed/UnityEngine.ClothModule.dll
+/Lethal Company_Data/Managed/UnityEngine.ClusterInputModule.dll
+/Lethal Company_Data/Managed/UnityEngine.ClusterRendererModule.dll
+/Lethal Company_Data/Managed/UnityEngine.ContentLoadModule.dll
+/Lethal Company_Data/Managed/UnityEngine.CoreModule.dll
+/Lethal Company_Data/Managed/UnityEngine.CrashReportingModule.dll
+/Lethal Company_Data/Managed/UnityEngine.DirectorModule.dll
+/Lethal Company_Data/Managed/UnityEngine.dll
+/Lethal Company_Data/Managed/UnityEngine.DSPGraphModule.dll
+/Lethal Company_Data/Managed/UnityEngine.GameCenterModule.dll
+/Lethal Company_Data/Managed/UnityEngine.GIModule.dll
+/Lethal Company_Data/Managed/UnityEngine.GridModule.dll
+/Lethal Company_Data/Managed/UnityEngine.HotReloadModule.dll
+/Lethal Company_Data/Managed/UnityEngine.ImageConversionModule.dll
+/Lethal Company_Data/Managed/UnityEngine.IMGUIModule.dll
+/Lethal Company_Data/Managed/UnityEngine.InputLegacyModule.dll
+/Lethal Company_Data/Managed/UnityEngine.InputModule.dll
+/Lethal Company_Data/Managed/UnityEngine.JSONSerializeModule.dll
+/Lethal Company_Data/Managed/UnityEngine.LocalizationModule.dll
+/Lethal Company_Data/Managed/UnityEngine.NVIDIAModule.dll
+/Lethal Company_Data/Managed/UnityEngine.ParticleSystemModule.dll
+/Lethal Company_Data/Managed/UnityEngine.PerformanceReportingModule.dll
+/Lethal Company_Data/Managed/UnityEngine.Physics2DModule.dll
+/Lethal Company_Data/Managed/UnityEngine.PhysicsModule.dll
+/Lethal Company_Data/Managed/UnityEngine.ProfilerModule.dll
+/Lethal Company_Data/Managed/UnityEngine.PropertiesModule.dll
+/Lethal Company_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll
+/Lethal Company_Data/Managed/UnityEngine.ScreenCaptureModule.dll
+/Lethal Company_Data/Managed/UnityEngine.SharedInternalsModule.dll
+/Lethal Company_Data/Managed/UnityEngine.SpriteMaskModule.dll
+/Lethal Company_Data/Managed/UnityEngine.SpriteShapeModule.dll
+/Lethal Company_Data/Managed/UnityEngine.StreamingModule.dll
+/Lethal Company_Data/Managed/UnityEngine.SubstanceModule.dll
+/Lethal Company_Data/Managed/UnityEngine.SubsystemsModule.dll
+/Lethal Company_Data/Managed/UnityEngine.TerrainModule.dll
+/Lethal Company_Data/Managed/UnityEngine.TerrainPhysicsModule.dll
+/Lethal Company_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll
+/Lethal Company_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll
+/Lethal Company_Data/Managed/UnityEngine.TextRenderingModule.dll
+/Lethal Company_Data/Managed/UnityEngine.TilemapModule.dll
+/Lethal Company_Data/Managed/UnityEngine.TLSModule.dll
+/Lethal Company_Data/Managed/UnityEngine.UI.dll
+/Lethal Company_Data/Managed/UnityEngine.UIElementsModule.dll
+/Lethal Company_Data/Managed/UnityEngine.UIModule.dll
+/Lethal Company_Data/Managed/UnityEngine.UmbraModule.dll
+/Lethal Company_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll
+/Lethal Company_Data/Managed/UnityEngine.UnityAnalyticsModule.dll
+/Lethal Company_Data/Managed/UnityEngine.UnityConnectModule.dll
+/Lethal Company_Data/Managed/UnityEngine.UnityCurlModule.dll
+/Lethal Company_Data/Managed/UnityEngine.UnityTestProtocolModule.dll
+/Lethal Company_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Lethal Company_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll
+/Lethal Company_Data/Managed/UnityEngine.UnityWebRequestModule.dll
+/Lethal Company_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll
+/Lethal Company_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll
+/Lethal Company_Data/Managed/UnityEngine.VehiclesModule.dll
+/Lethal Company_Data/Managed/UnityEngine.VFXModule.dll
+/Lethal Company_Data/Managed/UnityEngine.VideoModule.dll
+/Lethal Company_Data/Managed/UnityEngine.VirtualTexturingModule.dll
+/Lethal Company_Data/Managed/UnityEngine.VRModule.dll
+/Lethal Company_Data/Managed/UnityEngine.WindModule.dll
+/Lethal Company_Data/Managed/UnityEngine.XRModule.dll
+/Lethal Company_Data/Plugins/no_plugins_were_generated.txt
+/Lethal Company_Data/Plugins/x86_64/AudioPluginDissonance.dll
+/Lethal Company_Data/Plugins/x86_64/discord_game_sdk.dll
+/Lethal Company_Data/Plugins/x86_64/opus.dll
+/Lethal Company_Data/Plugins/x86_64/phonon_fmod.dll
+/Lethal Company_Data/Plugins/x86_64/steam_api64.dll
+/Lethal Company_Data/resources.assets
+/Lethal Company_Data/resources.assets.resS
+/Lethal Company_Data/Resources/unity default resources
+/Lethal Company_Data/Resources/unity_builtin_extra
+/Lethal Company_Data/RuntimeInitializeOnLoads.json
+/Lethal Company_Data/ScriptingAssemblies.json
+/Lethal Company_Data/sharedassets0.assets
+/Lethal Company_Data/sharedassets0.assets.resS
+/Lethal Company_Data/sharedassets0.resource
+/Lethal Company_Data/sharedassets1.assets
+/Lethal Company_Data/sharedassets1.assets.resS
+/Lethal Company_Data/sharedassets1.resource
+/Lethal Company_Data/sharedassets10.assets
+/Lethal Company_Data/sharedassets10.assets.resS
+/Lethal Company_Data/sharedassets10.resource
+/Lethal Company_Data/sharedassets11.assets
+/Lethal Company_Data/sharedassets11.assets.resS
+/Lethal Company_Data/sharedassets12.assets
+/Lethal Company_Data/sharedassets13.assets
+/Lethal Company_Data/sharedassets13.assets.resS
+/Lethal Company_Data/sharedassets2.assets
+/Lethal Company_Data/sharedassets2.assets.resS
+/Lethal Company_Data/sharedassets2.resource
+/Lethal Company_Data/sharedassets3.assets
+/Lethal Company_Data/sharedassets3.assets.resS
+/Lethal Company_Data/sharedassets3.resource
+/Lethal Company_Data/sharedassets4.assets
+/Lethal Company_Data/sharedassets4.assets.resS
+/Lethal Company_Data/sharedassets4.resource
+/Lethal Company_Data/sharedassets5.assets
+/Lethal Company_Data/sharedassets5.assets.resS
+/Lethal Company_Data/sharedassets5.resource
+/Lethal Company_Data/sharedassets6.assets
+/Lethal Company_Data/sharedassets6.assets.resS
+/Lethal Company_Data/sharedassets6.resource
+/Lethal Company_Data/sharedassets7.assets
+/Lethal Company_Data/sharedassets7.assets.resS
+/Lethal Company_Data/sharedassets7.resource
+/Lethal Company_Data/sharedassets8.assets
+/Lethal Company_Data/sharedassets9.assets
+/Lethal Company_Data/sharedassets9.assets.resS
+/Lethal Company_Data/StreamingAssets/UnityServicesProjectConfiguration.json
+
+/Lethal Company.exe
+
+/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll
+/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll
+/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser
+/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx
+/MonoBleedingEdge/etc/mono/2.0/machine.config
+/MonoBleedingEdge/etc/mono/2.0/settings.map
+/MonoBleedingEdge/etc/mono/2.0/web.config
+/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser
+/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx
+/MonoBleedingEdge/etc/mono/4.0/machine.config
+/MonoBleedingEdge/etc/mono/4.0/settings.map
+/MonoBleedingEdge/etc/mono/4.0/web.config
+/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser
+/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx
+/MonoBleedingEdge/etc/mono/4.5/machine.config
+/MonoBleedingEdge/etc/mono/4.5/settings.map
+/MonoBleedingEdge/etc/mono/4.5/web.config
+/MonoBleedingEdge/etc/mono/browscap.ini
+/MonoBleedingEdge/etc/mono/config
+/MonoBleedingEdge/etc/mono/mconfig/config.xml
+
+/nvngx_dlss.dll
+/NVUnityPlugin.dll
+/UnityCrashHandler64.exe
+/UnityPlayer.dll
