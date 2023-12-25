@@ -10,3 +10,4 @@
 - [MoreScrap 1.0.0](https://www.nexusmods.com/lethalcompany/mods/82)
 - [ShipLobby 1.0.2](https://www.nexusmods.com/lethalcompany/mods/19)
 - [RemoveCameraFilter 1.0.0](https://www.nexusmods.com/lethalcompany/mods/10)
+- [AdditionalSuits 1.1.3](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits/)
