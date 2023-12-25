@@ -253,3 +253,8 @@
 /NVUnityPlugin.dll
 /UnityCrashHandler64.exe
 /UnityPlayer.dll
+
+#BepInEx
+/BepInEx/LogOutput.log
+/BepInEx/cache/chainloader_typeloader.dat
+/BepInEx/cache/harmony_interop_cache.dat
