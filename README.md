@@ -15,3 +15,4 @@
 - [AlwaysHearActiveWalkies 1.4.3](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)
 - [More Emotes 1.2.2](https://thunderstore.io/c/lethal-company/p/Sligili/More_Emotes/)
 - [Helmet Camera 2.1.5](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
+- [Nameplate Tweaks 1.0.5](https://thunderstore.io/c/lethal-company/p/taffyko/NameplateTweaks/)
