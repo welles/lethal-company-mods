@@ -17,3 +17,4 @@
 - [Helmet Camera 2.1.5](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
 - [Nameplate Tweaks 1.0.5](https://thunderstore.io/c/lethal-company/p/taffyko/NameplateTweaks/)
 - [LCBetterSaves 1.6.1](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/)
+- [IntroTweaks 1.2.2](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/)
