@@ -258,3 +258,6 @@
 /BepInEx/LogOutput.log
 /BepInEx/cache/chainloader_typeloader.dat
 /BepInEx/cache/harmony_interop_cache.dat
+
+# :-)
+/BepInEx/config/TDP.CoilHeadStare.cfg
