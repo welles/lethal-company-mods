@@ -1,4 +1,16 @@
-# [CLICK TO DOWNLOAD MODS](https://codeload.github.com/welles/lethal-company-mods/zip/refs/heads/main)
+# Automatic Installation Script
+1. Download script: [LINK](https://raw.githubusercontent.com/welles/lethal-company-mods/main/Update-Mods.ps1)  
+   (Right Click -> Save Page As)
+2. Move file to Lethal Company installation directory, next to `Lethal Company.exe`  
+   (Usually: `C:\Program Files (x86)\Steam\steamapps\common\Lethal Company`)
+3. Right click file  and "Run with PowerShell"
+4. If updating, just run the script file again
+
+# Manual Installation and Update
+1. Download latest version of the repository: [LINK](https://codeload.github.com/welles/lethal-company-mods/zip/refs/heads/main)
+2. If updating, remove `BepInEx` folder in Lethal Company installation directory
+3. Extract everything inside the folder `lethal-company-mods-main` in the ZIP into the installation directory
+4. The extracted folder `BepInEx` as well as the file `winhttp.dll` should now be next to the `Lethal Company.exe`
 
 # Mod List
 - [BepInEx 5.4.22.0](https://github.com/BepInEx/BepInEx/releases)
