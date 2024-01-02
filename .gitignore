@@ -261,3 +261,8 @@
 
 # :-)
 /BepInEx/config/TDP.CoilHeadStare.cfg
+
+# YouTube Boombox
+/BepInEx/plugins/steven4547466-YoutubeBoombox/data/Downloads/*.mp3
+/BepInEx/plugins/steven4547466-YoutubeBoombox/data/ffmpeg.exe
+/BepInEx/plugins/steven4547466-YoutubeBoombox/data/yt-dlp.exe
