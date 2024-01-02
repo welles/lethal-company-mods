@@ -33,3 +33,4 @@
 - [LC API 3.2.3](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)
 - [YouTube Boombox 1.5.0](https://thunderstore.io/c/lethal-company/p/steven4547466/YoutubeBoombox/)
 - [Hide Modlist Popup 1.0.1](https://thunderstore.io/c/lethal-company/p/Sv_Matt/HideModList/)
+- [LetMeLookDown 1.0.1](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)
