@@ -36,3 +36,4 @@
 - [LetMeLookDown 1.0.1](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)
 - [AEIOUCompany 1.3.4](https://thunderstore.io/c/lethal-company/p/Bibendi/AEIOUCompany/)
 - [Hold Scan Button 1.1.1](https://thunderstore.io/c/lethal-company/p/FutureSavior/Hold_Scan_Button/)
+- [FOV Adjust 1.1.1](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust/)
