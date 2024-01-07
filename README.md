@@ -1,5 +1,5 @@
 # Automatic Installation Script
-1. Download script: [LINK](https://raw.githubusercontent.com/welles/lethal-company-mods/main/Update-Mods.ps1)  
+1. Download script: <a href="https://raw.githubusercontent.com/welles/lethal-company-mods/main/Update-Mods.bat" download="Update-Mods.bat" target="_blank">LINK</a>  
    (Right Click -> Save Page As)
 2. Move file to Lethal Company installation directory, next to `Lethal Company.exe`  
    (Usually: `C:\Program Files (x86)\Steam\steamapps\common\Lethal Company`)
