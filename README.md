@@ -1,16 +1,19 @@
 # Automatic Installation Script
-1. Download script: <a href="https://raw.githubusercontent.com/welles/lethal-company-mods/main/Update-Mods.bat" download="Update-Mods.bat" target="_blank">LINK</a>  
-   (Right Click -> Save Page As)
-2. Move file to Lethal Company installation directory, next to `Lethal Company.exe`  
-   (Usually: `C:\Program Files (x86)\Steam\steamapps\common\Lethal Company`)
-3. Right click file  and "Run with PowerShell"
-4. If updating, just run the script file again
+1. Download this script file: [LINK](https://raw.githack.com/welles/lethal-company-mods/main/Update-Mods.bat)
+2. Move the script file to Lethal Company installation directory, next to `Lethal Company.exe`.  
+   (Usually in this location: `C:\Program Files (x86)\Steam\steamapps\common\Lethal Company`)
+3. Execute the script by double clicking the file.
+4. The script downloads all mods and installs them.
+5. If the script  has finished successfully, the mods are installed and the game can be started.  
+   No further action is required. You can close the script window.  
+   There should now be a folder called `BepInEx` in the same directory as `Lethal Company.exe`
+6. To update to the newest version of the modlist, just run the script again.
 
 # Manual Installation and Update
 1. Download latest version of the repository: [LINK](https://codeload.github.com/welles/lethal-company-mods/zip/refs/heads/main)
-2. If updating, remove `BepInEx` folder in Lethal Company installation directory
-3. Extract everything inside the folder `lethal-company-mods-main` in the ZIP into the installation directory
-4. The extracted folder `BepInEx` as well as the file `winhttp.dll` should now be next to the `Lethal Company.exe`
+2. If updating, remove `BepInEx` folder in Lethal Company installation directory.
+3. Extract everything inside the folder `lethal-company-mods-main` in the ZIP into the installation directory.
+4. The extracted folder `BepInEx` as well as the file `winhttp.dll` should now be next to the `Lethal Company.exe`.
 
 # Mod List
 - [BepInEx 5.4.22.0](https://github.com/BepInEx/BepInEx/releases)
