@@ -39,3 +39,4 @@
 - [HotbarPlus 1.4.8](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)
 - [InputUtils 0.4.4](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)
 - [FlashlightToggle 1.5.0](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/)
+- [WalkieUse 1.4.0](https://thunderstore.io/c/lethal-company/p/Renegades/WalkieUse/)
