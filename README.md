@@ -36,3 +36,4 @@
 - [Hold Scan Button 1.1.1](https://thunderstore.io/c/lethal-company/p/FutureSavior/Hold_Scan_Button/)
 - [FOV Adjust 1.1.1](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust/)
 - [TooManyEmotes 1.7.0](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
+- [HotbarPlus 1.4.8](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)
