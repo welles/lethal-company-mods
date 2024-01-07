@@ -266,3 +266,6 @@
 /BepInEx/plugins/steven4547466-YoutubeBoombox/data/Downloads/*.mp3
 /BepInEx/plugins/steven4547466-YoutubeBoombox/data/ffmpeg.exe
 /BepInEx/plugins/steven4547466-YoutubeBoombox/data/yt-dlp.exe
+
+# ???
+/Dissonance_Diagnostics/Output_*.wav
