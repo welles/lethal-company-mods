@@ -46,7 +46,7 @@
 | ~~LethalCompany InputUtils~~        | 0.4.4   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)         | 2024-01-08 |
 | ~~LetMeLookDown~~                   | 1.0.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)                   | 2024-01-08 |
 | ~~Mimics~~                          | 2.3.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)                              | 2024-01-08 |
-| ~~MoreCompany~~                     | 1.7.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)              | 2024-01-08 |
+| MoreCompany                         | 1.7.4   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)              | 2024-01-09 |
 | ~~MoreHead~~                        | 1.2.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Mhz/MoreHead/)                             | 2024-01-08 |
 | ~~MoreSuits~~                       | 1.4.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)                          | 2024-01-08 |
 | ~~NameplateTweaks~~                 | 1.0.6   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/taffyko/NameplateTweaks/)                  | 2024-01-08 |
