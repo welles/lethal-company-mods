@@ -17,7 +17,6 @@
 
 # Mod List
 - [BepInEx 5.4.22.0](https://github.com/BepInEx/BepInEx/releases)
-- [HDLethalCompany 1.5.3](https://www.nexusmods.com/lethalcompany/mods/70)
 - [MoreCompany 1.7.2](https://www.nexusmods.com/lethalcompany/mods/60)
 - [Skinwalkers 2.0.1](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
 - [ShipLobby 1.0.2](https://www.nexusmods.com/lethalcompany/mods/19)
@@ -47,3 +46,5 @@
 | AEIOUCompany     | 1.3.5   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Bibendi/AEIOUCompany/)             | 2024-01-08 |
 | TooManyEmotes    | 1.7.6   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)           | 2024-01-08 |
 | LC API           | 3.3.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)                      | 2024-01-08 |
+| HDLethalCompany  | 1.5.6   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)          | 2024-01-08 |
+|                  |         |                                                                                              |            |
