@@ -46,6 +46,7 @@
 | MoreCompany                     | 1.7.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)              | 2024-01-08 |
 | MoreSuits                       | 1.4.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)                          | 2024-01-08 |
 | NameplateTweaks                 | 1.0.6   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/taffyko/NameplateTweaks/)                  | 2024-01-08 |
+| Orion                           | 1.1.4   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/sfDesat/Orion/)                            | 2024-01-08 |
 | RemoveCameraFilter              | 1.0.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Augur/RemoveCameraFilter/)                 | 2024-01-08 |
 | ShipLobby                       | 1.0.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/)                       | 2024-01-08 |
 | ShipLoot                        | 1.0.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)                        | 2024-01-08 |
