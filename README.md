@@ -17,7 +17,6 @@
 
 # Mod List
 - [BepInEx 5.4.22.0](https://github.com/BepInEx/BepInEx/releases)
-- [WalkieUse 1.4.0](https://thunderstore.io/c/lethal-company/p/Renegades/WalkieUse/)
 
 # Mod List (New)
 | Mod Name                        | Version | Link                                                                                                 | Date Added |
@@ -49,4 +48,5 @@
 | HotbarPlus                      | 1.5.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)                      | 2024-01-08 |
 | LethalCompany InputUtils        | 0.4.4   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)         | 2024-01-08 |
 | LetMeLookDown                   | 1.0.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)                   | 2024-01-08 |
+| WalkieUse                       | 1.4.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Renegades/WalkieUse/)                      | 2024-01-08 |
 |                                 |         |                                                                                                      |            |
