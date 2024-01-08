@@ -17,7 +17,6 @@
 
 # Mod List
 - [BepInEx 5.4.22.0](https://github.com/BepInEx/BepInEx/releases)
-- [ShipLoot 1.0.0](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
 - [Helmet Camera 2.1.5](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
 - [Nameplate Tweaks 1.0.5](https://thunderstore.io/c/lethal-company/p/taffyko/NameplateTweaks/)
 - [LCBetterSaves 1.6.1](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/)
@@ -49,4 +48,5 @@
 | RemoveCameraFilter              | 1.0.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Augur/RemoveCameraFilter/)                 | 2024-01-08 |
 | FlashlightToggle                | 1.5.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/)               | 2024-01-08 |
 | FOV Adjust                      | 1.1.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust/)                       | 2024-01-08 |
+| ShipLoot                        | 1.0.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)                        | 2024-01-08 |
 |                                 |         |                                                                                                      |            |
