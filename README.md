@@ -20,7 +20,6 @@
 - [Nameplate Tweaks 1.0.5](https://thunderstore.io/c/lethal-company/p/taffyko/NameplateTweaks/)
 - [LCBetterSaves 1.6.1](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/)
 - [IntroTweaks 1.2.2](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/)
-- [Hide Modlist Popup 1.0.1](https://thunderstore.io/c/lethal-company/p/Sv_Matt/HideModList/)
 - [LetMeLookDown 1.0.1](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)
 - [Hold Scan Button 1.1.1](https://thunderstore.io/c/lethal-company/p/FutureSavior/Hold_Scan_Button/)
 - [HotbarPlus 1.4.8](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)
@@ -49,4 +48,5 @@
 | FOV Adjust                      | 1.1.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust/)                       | 2024-01-08 |
 | ShipLoot                        | 1.0.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)                        | 2024-01-08 |
 | Helmet Cameras                  | 2.1.5   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)                   | 2024-01-08 |
+| HideModList                     | 1.0.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Sv_Matt/HideModList/)                      | 2024-01-08 |
 |                                 |         |                                                                                                      |            |
