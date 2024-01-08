@@ -33,7 +33,6 @@
 - [YouTube Boombox 1.5.0](https://thunderstore.io/c/lethal-company/p/steven4547466/YoutubeBoombox/)
 - [Hide Modlist Popup 1.0.1](https://thunderstore.io/c/lethal-company/p/Sv_Matt/HideModList/)
 - [LetMeLookDown 1.0.1](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)
-- [AEIOUCompany 1.3.4](https://thunderstore.io/c/lethal-company/p/Bibendi/AEIOUCompany/)
 - [Hold Scan Button 1.1.1](https://thunderstore.io/c/lethal-company/p/FutureSavior/Hold_Scan_Button/)
 - [FOV Adjust 1.1.1](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust/)
 - [TooManyEmotes 1.7.0](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
@@ -47,3 +46,5 @@
 | ---------------- | ------- | -------------------------------------------------------------------------------------------- | ---------- |
 | Lethal Expansion | 1.3.16  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/) | 2024-01-08 |
 | YippeeMod        | 1.2.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)             | 2024-01-08 |
+| AEIOUCompany     | 1.3.5   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Bibendi/AEIOUCompany/)             | 2024-01-08 |
+|                  |         |                                                                                              |            |
