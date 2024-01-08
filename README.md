@@ -15,10 +15,10 @@
 3. Extract everything inside the folder `lethal-company-mods-main` in the ZIP into the installation directory.
 4. The extracted folder `BepInEx` as well as the file `winhttp.dll` should now be next to the `Lethal Company.exe`.
 
-# Mod List
-- [BepInEx 5.4.22.0](https://github.com/BepInEx/BepInEx/releases)
+# BepInEx Version
+[BepInEx 5.4.22.0](https://github.com/BepInEx/BepInEx/releases)
 
-# Mod List (New)
+# Mod List
 | Mod Name                        | Version | Link                                                                                                 | Date Added |
 | ------------------------------- | ------- | ---------------------------------------------------------------------------------------------------- | ---------- |
 | Lethal Expansion                | 1.3.16  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/)         | 2024-01-08 |
