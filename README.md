@@ -28,7 +28,6 @@
 - [FOV Adjust 1.1.1](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust/)
 - [HotbarPlus 1.4.8](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)
 - [InputUtils 0.4.4](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)
-- [FlashlightToggle 1.5.0](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/)
 - [WalkieUse 1.4.0](https://thunderstore.io/c/lethal-company/p/Renegades/WalkieUse/)
 
 # Mod List (New)
@@ -49,4 +48,5 @@
 | AlwaysHearActiveWalkies         | 1.4.4   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)        | 2024-01-08 |
 | Skinwalkers                     | 2.0.3   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)                | 2024-01-08 |
 | RemoveCameraFilter              | 1.0.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Augur/RemoveCameraFilter/)                 | 2024-01-08 |
+| FlashlightToggle                | 1.5.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/)               | 2024-01-08 |
 |                                 |         |                                                                                                      |            |
