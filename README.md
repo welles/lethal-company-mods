@@ -36,6 +36,7 @@
 | HideModList                     | 1.0.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Sv_Matt/HideModList/)                      | 2024-01-08 |
 | Hold Scan Button                | 1.1.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FutureSavior/Hold_Scan_Button/)            | 2024-01-08 |
 | HotbarPlus                      | 1.5.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)                      | 2024-01-08 |
+| IntroTweaks                     | 1.4.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/)                       | 2024-01-08 |
 | LC API                          | 3.3.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)                              | 2024-01-08 |
 | LCBetterSaves                   | 1.6.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/)                     | 2024-01-08 |
 | Lethal Expansion                | 1.3.16  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/)         | 2024-01-08 |
