@@ -35,7 +35,6 @@
 - [LetMeLookDown 1.0.1](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)
 - [Hold Scan Button 1.1.1](https://thunderstore.io/c/lethal-company/p/FutureSavior/Hold_Scan_Button/)
 - [FOV Adjust 1.1.1](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust/)
-- [TooManyEmotes 1.7.0](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)
 - [HotbarPlus 1.4.8](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)
 - [InputUtils 0.4.4](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)
 - [FlashlightToggle 1.5.0](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/)
@@ -47,4 +46,5 @@
 | Lethal Expansion | 1.3.16  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/) | 2024-01-08 |
 | YippeeMod        | 1.2.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)             | 2024-01-08 |
 | AEIOUCompany     | 1.3.5   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Bibendi/AEIOUCompany/)             | 2024-01-08 |
+| TooManyEmotes    | 1.7.6   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)           | 2024-01-08 |
 |                  |         |                                                                                              |            |
