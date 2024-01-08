@@ -1,0 +1,9 @@
+﻿{
+  "name": "MoreHead",
+  "version_number": "1.2.2",
+  "website_url": "",
+  "description": "Simple cosmetics, joy for you.",
+  "dependencies": [	
+    "notnotnotswipez-MoreCompany-1.7.2"
+  ]
+}
