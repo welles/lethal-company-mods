@@ -35,17 +35,18 @@
 - [WalkieUse 1.4.0](https://thunderstore.io/c/lethal-company/p/Renegades/WalkieUse/)
 
 # Mod List (New)
-| Mod Name                        | Version | Link                                                                                         | Date Added |
-| ------------------------------- | ------- | -------------------------------------------------------------------------------------------- | ---------- |
-| Lethal Expansion                | 1.3.16  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/) | 2024-01-08 |
-| YippeeMod                       | 1.2.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)             | 2024-01-08 |
-| AEIOUCompany                    | 1.3.5   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Bibendi/AEIOUCompany/)             | 2024-01-08 |
-| TooManyEmotes                   | 1.7.6   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)           | 2024-01-08 |
-| LC API                          | 3.3.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)                      | 2024-01-08 |
-| HDLethalCompany                 | 1.5.6   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)          | 2024-01-08 |
-| MoreCompany                     | 1.7.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)      | 2024-01-08 |
-| MoreSuits                       | 1.4.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)                  | 2024-01-08 |
-| AdditionalSuits (Textures Only) | 1.1.3   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits/)   | 2024-01-08 |
-| ShipLobby                       | 1.0.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/)               | 2024-01-08 |
-| BoomboxController               | 1.1.5   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/)      | 2024-01-08 |
-|                                 |         |                                                                                              |            |
+| Mod Name                        | Version | Link                                                                                                 | Date Added |
+| ------------------------------- | ------- | ---------------------------------------------------------------------------------------------------- | ---------- |
+| Lethal Expansion                | 1.3.16  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/)         | 2024-01-08 |
+| YippeeMod                       | 1.2.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)                     | 2024-01-08 |
+| AEIOUCompany                    | 1.3.5   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Bibendi/AEIOUCompany/)                     | 2024-01-08 |
+| TooManyEmotes                   | 1.7.6   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)                   | 2024-01-08 |
+| LC API                          | 3.3.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)                              | 2024-01-08 |
+| HDLethalCompany                 | 1.5.6   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)                  | 2024-01-08 |
+| MoreCompany                     | 1.7.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)              | 2024-01-08 |
+| MoreSuits                       | 1.4.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)                          | 2024-01-08 |
+| AdditionalSuits (Textures Only) | 1.1.3   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits/)           | 2024-01-08 |
+| ShipLobby                       | 1.0.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/)                       | 2024-01-08 |
+| BoomboxController               | 1.1.5   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/)              | 2024-01-08 |
+| CoilHeadStare                   | 1.0.3   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/) | 2024-01-08 |
+|                                 |         |                                                                                                      |            |
