@@ -29,7 +29,6 @@
 - [Nameplate Tweaks 1.0.5](https://thunderstore.io/c/lethal-company/p/taffyko/NameplateTweaks/)
 - [LCBetterSaves 1.6.1](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/)
 - [IntroTweaks 1.2.2](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/)
-- [LC API 3.2.3](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)
 - [YouTube Boombox 1.5.0](https://thunderstore.io/c/lethal-company/p/steven4547466/YoutubeBoombox/)
 - [Hide Modlist Popup 1.0.1](https://thunderstore.io/c/lethal-company/p/Sv_Matt/HideModList/)
 - [LetMeLookDown 1.0.1](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)
@@ -47,4 +46,4 @@
 | YippeeMod        | 1.2.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)             | 2024-01-08 |
 | AEIOUCompany     | 1.3.5   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Bibendi/AEIOUCompany/)             | 2024-01-08 |
 | TooManyEmotes    | 1.7.6   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)           | 2024-01-08 |
-|                  |         |                                                                                              |            |
+| LC API           | 3.3.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)                      | 2024-01-08 |
