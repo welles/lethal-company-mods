@@ -49,4 +49,5 @@
 | Helmet Cameras                  | 2.1.5   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)                   | 2024-01-08 |
 | HideModList                     | 1.0.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Sv_Matt/HideModList/)                      | 2024-01-08 |
 | Hold Scan Button                | 1.1.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FutureSavior/Hold_Scan_Button/)            | 2024-01-08 |
+| BetterStamina                   | 1.3.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/BetterStamina/)                   | 2024-01-08 |
 |                                 |         |                                                                                                      |            |
