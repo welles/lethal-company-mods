@@ -48,4 +48,4 @@
 | Mod Name         | Version | Link                                                                                         | Date Added |
 | ---------------- | ------- | -------------------------------------------------------------------------------------------- | ---------- |
 | Lethal Expansion | 1.3.16  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/) | 2024-01-08 |
-|                  |         |                                                                                              |            |
+| YippeeMod        | 1.2.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)             | 2024-01-08 |
