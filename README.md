@@ -24,6 +24,7 @@
 | AdditionalSuits (Textures Only) | 1.1.3   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits/)           | 2024-01-08 |
 | AEIOUCompany                    | 1.3.5   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Bibendi/AEIOUCompany/)                     | 2024-01-08 |
 | AlwaysHearActiveWalkies         | 1.4.4   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)        | 2024-01-08 |
+| BetterItemScan                  | 3.0.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/PopleZoo/BetterItemScan/)                  | 2024-01-08 |
 | BetterStamina                   | 1.3.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/BetterStamina/)                   | 2024-01-08 |
 | BoomboxController               | 1.1.5   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/)              | 2024-01-08 |
 | CoilHeadStare                   | 1.0.3   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/) | 2024-01-08 |
