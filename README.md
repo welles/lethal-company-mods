@@ -43,3 +43,9 @@
 - [InputUtils 0.4.4](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)
 - [FlashlightToggle 1.5.0](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/)
 - [WalkieUse 1.4.0](https://thunderstore.io/c/lethal-company/p/Renegades/WalkieUse/)
+
+# Mod List (New)
+| Mod Name         | Version | Link                                                                                         | Date Added |
+| ---------------- | ------- | -------------------------------------------------------------------------------------------- | ---------- |
+| Lethal Expansion | 1.3.16  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/) | 2024-01-08 |
+|                  |         |                                                                                              |            |
