@@ -52,6 +52,7 @@
 | ShipLobby                       | 1.0.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/)                       | 2024-01-08 |
 | Skinwalkers                     | 2.0.3   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)                | 2024-01-08 |
 | TooManyEmotes                   | 1.7.6   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)                   | 2024-01-08 |
+| VoiceHUD                        | 1.0.4   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD/)                            | 2024-01-08 |
 | WalkieUse                       | 1.4.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Renegades/WalkieUse/)                      | 2024-01-08 |
 | YippeeMod                       | 1.2.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)                     | 2024-01-08 |
 |                                 |         |                                                                                                      |            |
