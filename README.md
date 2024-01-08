@@ -47,4 +47,5 @@
 | LC API           | 3.3.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)                      | 2024-01-08 |
 | HDLethalCompany  | 1.5.6   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)          | 2024-01-08 |
 | MoreCompany      | 1.7.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)      | 2024-01-08 |
+| MoreSuits        | 1.4.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)                  | 2024-01-08 |
 |                  |         |                                                                                              |            |
