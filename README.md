@@ -17,7 +17,6 @@
 
 # Mod List
 - [BepInEx 5.4.22.0](https://github.com/BepInEx/BepInEx/releases)
-- [RemoveCameraFilter 1.0.0](https://www.nexusmods.com/lethalcompany/mods/10)
 - [ShipLoot 1.0.0](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
 - [Helmet Camera 2.1.5](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
 - [Nameplate Tweaks 1.0.5](https://thunderstore.io/c/lethal-company/p/taffyko/NameplateTweaks/)
@@ -49,4 +48,5 @@
 | CoilHeadStare                   | 1.0.3   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/) | 2024-01-08 |
 | AlwaysHearActiveWalkies         | 1.4.4   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)        | 2024-01-08 |
 | Skinwalkers                     | 2.0.3   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)                | 2024-01-08 |
+| RemoveCameraFilter              | 1.0.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Augur/RemoveCameraFilter/)                 | 2024-01-08 |
 |                                 |         |                                                                                                      |            |
