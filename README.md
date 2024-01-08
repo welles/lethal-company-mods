@@ -17,7 +17,6 @@
 
 # Mod List
 - [BepInEx 5.4.22.0](https://github.com/BepInEx/BepInEx/releases)
-- [IntroTweaks 1.2.2](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/)
 - [LetMeLookDown 1.0.1](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)
 - [InputUtils 0.4.4](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)
 - [WalkieUse 1.4.0](https://thunderstore.io/c/lethal-company/p/Renegades/WalkieUse/)
