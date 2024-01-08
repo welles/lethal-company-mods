@@ -47,4 +47,5 @@
 | MoreSuits                       | 1.4.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)                  | 2024-01-08 |
 | AdditionalSuits (Textures Only) | 1.1.3   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits/)   | 2024-01-08 |
 | ShipLobby                       | 1.0.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/)               | 2024-01-08 |
+| BoomboxController               | 1.1.5   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/)      | 2024-01-08 |
 |                                 |         |                                                                                              |            |

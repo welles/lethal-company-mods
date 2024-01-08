@@ -264,3 +264,10 @@
 
 # ???
 /Dissonance_Diagnostics/Output_*.wav
+
+# BoomboxController
+/BoomboxController/other/ffmpeg.exe
+/BoomboxController/other/yt-dlp.exe
+/BoomboxController/other/*.mp3
+/BoomboxController/cache
+/BoomboxController/logReport.txt
