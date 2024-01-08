@@ -18,7 +18,6 @@
 # Mod List
 - [BepInEx 5.4.22.0](https://github.com/BepInEx/BepInEx/releases)
 - [LetMeLookDown 1.0.1](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)
-- [InputUtils 0.4.4](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)
 - [WalkieUse 1.4.0](https://thunderstore.io/c/lethal-company/p/Renegades/WalkieUse/)
 
 # Mod List (New)
@@ -49,4 +48,5 @@
 | NameplateTweaks                 | 1.0.6   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/taffyko/NameplateTweaks/)                  | 2024-01-08 |
 | LCBetterSaves                   | 1.6.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/)                     | 2024-01-08 |
 | HotbarPlus                      | 1.5.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)                      | 2024-01-08 |
+| LethalCompany InputUtils        | 0.4.4   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)         | 2024-01-08 |
 |                                 |         |                                                                                                      |            |
