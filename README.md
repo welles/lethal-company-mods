@@ -20,7 +20,6 @@
 - [Skinwalkers 2.0.1](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
 - [RemoveCameraFilter 1.0.0](https://www.nexusmods.com/lethalcompany/mods/10)
 - [ShipLoot 1.0.0](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
-- [AlwaysHearActiveWalkies 1.4.4](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)
 - [Helmet Camera 2.1.5](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)
 - [Nameplate Tweaks 1.0.5](https://thunderstore.io/c/lethal-company/p/taffyko/NameplateTweaks/)
 - [LCBetterSaves 1.6.1](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/)
@@ -49,4 +48,5 @@
 | ShipLobby                       | 1.0.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/)                       | 2024-01-08 |
 | BoomboxController               | 1.1.5   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/)              | 2024-01-08 |
 | CoilHeadStare                   | 1.0.3   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/) | 2024-01-08 |
+| AlwaysHearActiveWalkies         | 1.4.4   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)        | 2024-01-08 |
 |                                 |         |                                                                                                      |            |
