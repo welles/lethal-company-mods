@@ -17,7 +17,6 @@
 
 # Mod List
 - [BepInEx 5.4.22.0](https://github.com/BepInEx/BepInEx/releases)
-- [LCBetterSaves 1.6.1](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/)
 - [IntroTweaks 1.2.2](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/)
 - [LetMeLookDown 1.0.1](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)
 - [HotbarPlus 1.4.8](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)
@@ -50,4 +49,5 @@
 | Hold Scan Button                | 1.1.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FutureSavior/Hold_Scan_Button/)            | 2024-01-08 |
 | BetterStamina                   | 1.3.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/BetterStamina/)                   | 2024-01-08 |
 | NameplateTweaks                 | 1.0.6   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/taffyko/NameplateTweaks/)                  | 2024-01-08 |
+| LCBetterSaves                   | 1.6.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/)                     | 2024-01-08 |
 |                                 |         |                                                                                                      |            |
