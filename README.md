@@ -29,6 +29,7 @@
 | CoilHeadStare                   | 1.0.3   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/) | 2024-01-08 |
 | FlashlightToggle                | 1.5.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Renegades/FlashlightToggle/)               | 2024-01-08 |
 | FOV Adjust                      | 1.1.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust/)                       | 2024-01-08 |
+| FreeJester                      | 1.0.3   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/atg/FreeJester/)                           | 2024-01-08 |
 | HDLethalCompany                 | 1.5.6   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Sligili/HDLethalCompany/)                  | 2024-01-08 |
 | Helmet Cameras                  | 2.1.5   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/RickArg/Helmet_Cameras/)                   | 2024-01-08 |
 | HideModList                     | 1.0.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Sv_Matt/HideModList/)                      | 2024-01-08 |
