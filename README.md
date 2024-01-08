@@ -18,7 +18,6 @@
 # Mod List
 - [BepInEx 5.4.22.0](https://github.com/BepInEx/BepInEx/releases)
 - [Skinwalkers 2.0.1](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)
-- [ShipLobby 1.0.2](https://www.nexusmods.com/lethalcompany/mods/19)
 - [RemoveCameraFilter 1.0.0](https://www.nexusmods.com/lethalcompany/mods/10)
 - [ShipLoot 1.0.0](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLoot/)
 - [AlwaysHearActiveWalkies 1.4.4](https://thunderstore.io/c/lethal-company/p/Suskitech/AlwaysHearActiveWalkies/)
@@ -48,4 +47,5 @@
 | MoreCompany                     | 1.7.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)      | 2024-01-08 |
 | MoreSuits                       | 1.4.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/x753/More_Suits/)                  | 2024-01-08 |
 | AdditionalSuits (Textures Only) | 1.1.3   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/AlexCodesGames/AdditionalSuits/)   | 2024-01-08 |
+| ShipLobby                       | 1.0.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/)               | 2024-01-08 |
 |                                 |         |                                                                                              |            |
