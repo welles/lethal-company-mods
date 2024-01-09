@@ -28,7 +28,7 @@
 | BetterStamina                   | 1.3.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/BetterStamina/)                   | 2024-01-08 |
 | BoomboxController               | 1.1.5   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/KoderTeh/Boombox_Controller/)              | 2024-01-08 |
 | CoilHeadStare                   | 1.0.3   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/TwinDimensionalProductions/CoilHeadStare/) | 2024-01-08 |
-| Diversity                       | 1.1.8   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)                 | 2024-01-08 |
+| Diversity                       | 1.1.10  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/IntegrityChaos/Diversity/)                 | 2024-01-10 |
 | EladsHUD                        | 1.2.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/EladNLG/EladsHUD/)                         | 2024-01-10 |
 | FasterItemDropship              | 1.2.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/FasterItemDropship/)              | 2024-01-08 |
 | FOV Adjust                      | 1.1.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Rozebud/FOV_Adjust/)                       | 2024-01-08 |
