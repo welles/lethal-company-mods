@@ -53,7 +53,7 @@
 | RemoveCameraFilter              | 1.0.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Augur/RemoveCameraFilter/)                 | 2024-01-08 |
 | ShipLobby                       | 1.0.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/tinyhoot/ShipLobby/)                       | 2024-01-08 |
 | Skinwalkers                     | 2.0.5   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/RugbugRedfern/Skinwalkers/)                | 2024-01-10 |
-| TooManyEmotes                   | 1.7.6   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)                   | 2024-01-08 |
+| TooManyEmotes                   | 1.7.7   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/)                   | 2024-01-10 |
 | VoiceHUD                        | 1.0.4   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/5Bit/VoiceHUD/)                            | 2024-01-08 |
 | WackCosmetics                   | 1.1.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/EliteMasterEric/WackyCosmetics/)           | 2024-01-08 |
 | YippeeMod                       | 1.2.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/sunnobunno/YippeeMod/)                     | 2024-01-08 |

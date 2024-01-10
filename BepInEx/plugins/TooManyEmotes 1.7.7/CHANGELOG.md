@@ -1,3 +1,5 @@
+# 1.7.7
++ Disabling Masked Enemy emotes for non-host client until I fix the bug with them.
 # 1.7.6
 + Fixed issue with some input bindings.
 # 1.7.5
