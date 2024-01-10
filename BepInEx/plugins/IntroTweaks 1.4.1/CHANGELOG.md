@@ -81,3 +81,11 @@
 - Buttons now get aligned without requiring `bFixMenuCanvas` to be `true` - including MC's "Mod Settings" button.
 - Fixed issue where version text would stay hidden after exiting from a panel back to the menu.
 - Removed unneeded reference to `InputSystem`.
+
+## v1.4.1
+- Support v47 by fixing the settings issue. See [this issue](https://github.com/Owen3H/IntroTweaks/issues/6).
+- Improved compatibility with future **MoreCompany** versions by detecting it's loaded rather than finding it's canvas.
+- Removed `CUSTOM_VERSION_TEXT_X` and `CUSTOM_VERSION_TEXT_Y`. It was annoying to use and cluttered the config.
+- Button alignment should now play nicely with other mods that don't have explicit support.
+- Fixed splash screens not being skipped when mod loading takes >10s.
+- Fixed all the null reference errors. (yay)

@@ -1,6 +1,6 @@
 {
     "name": "IntroTweaks",
-    "version_number": "1.4.0",
+    "version_number": "1.4.1",
     "website_url": "https://github.com/Owen3H/IntroTweaks",
     "description": "Seamless skipping of intro/menu screens. Includes various fixes and useful options.",
     "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
