@@ -41,7 +41,6 @@
 | LC API                          | 3.3.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)                              | 2024-01-10 |
 | LCBetterSaves                   | 1.7.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/)                     | 2024-01-10 |
 | Lethal Expansion                | 1.3.17  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/)         | 2024-01-10 |
-| LethalCompany InputUtils        | 0.4.4   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)         | 2024-01-08 |
 | LetMeLookDown                   | 1.0.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)                   | 2024-01-08 |
 | Mimics                          | 2.3.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)                              | 2024-01-10 |
 | MoreCompany                     | 1.7.4   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)              | 2024-01-09 |
