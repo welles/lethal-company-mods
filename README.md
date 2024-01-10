@@ -39,7 +39,7 @@
 | HotbarPlus                      | 1.5.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/HotbarPlus/)                      | 2024-01-08 |
 | IntroTweaks                     | 1.4.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Owen3H/IntroTweaks/)                       | 2024-01-10 |
 | LC API                          | 3.3.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/2018/LC_API/)                              | 2024-01-10 |
-| LCBetterSaves                   | 1.6.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/)                     | 2024-01-08 |
+| LCBetterSaves                   | 1.7.0   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Pooble/LCBetterSaves/)                     | 2024-01-10 |
 | Lethal Expansion                | 1.3.16  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/)         | 2024-01-08 |
 | LethalCompany InputUtils        | 0.4.4   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)         | 2024-01-08 |
 | LetMeLookDown                   | 1.0.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)                   | 2024-01-08 |
