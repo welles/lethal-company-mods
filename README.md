@@ -43,7 +43,7 @@
 | Lethal Expansion                | 1.3.17  | [Thunderstore](https://thunderstore.io/c/lethal-company/p/HolographicWings/LethalExpansion/)         | 2024-01-10 |
 | LethalCompany InputUtils        | 0.4.4   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Rune580/LethalCompany_InputUtils/)         | 2024-01-08 |
 | LetMeLookDown                   | 1.0.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/FlipMods/LetMeLookDown/)                   | 2024-01-08 |
-| Mimics                          | 2.3.1   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)                              | 2024-01-08 |
+| Mimics                          | 2.3.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/x753/Mimics/)                              | 2024-01-10 |
 | MoreCompany                     | 1.7.4   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/notnotnotswipez/MoreCompany/)              | 2024-01-09 |
 | MoreHead                        | 1.2.2   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/Mhz/MoreHead/)                             | 2024-01-08 |
 | MoreScreams                     | 1.0.3   | [Thunderstore](https://thunderstore.io/c/lethal-company/p/egeadam/MoreScreams/)                      | 2024-01-10 |
